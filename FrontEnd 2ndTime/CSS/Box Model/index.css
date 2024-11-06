@@ -1,0 +1,8 @@
+p{
+    border-right: 10px dotted red;
+    border-left: 20px double green;
+    border-top: 30px solid orange;
+    border-bottom: 50px dashed navy;
+    padding: 25px 12px 6px 3px;
+    margin: 100px 50px 25px 12px;
+}

@@ -1,0 +1,32 @@
+/* div{
+    background: red;
+    height: 90vh; 
+vh-view code height 
+} */
+
+/* div{
+    background: linear-gradient(
+        90deg,to left,
+        red,black,pink,yellow,green,violet,teal,yellowgreen,orangered,darkblue
+    );
+    height: 90vh;
+} */
+
+/* div{
+    background: radial-gradient(orange,red,green);
+    height: 90vh;
+} */
+
+div{
+    background: url("https://images.pexels.com/photos/884788/pexels-photo-884788.jpeg?auto=compress&cs=tinysrgb&w=600");
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    
+}
+h1{
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    text-decoration: dotted;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 3px 3px 3px black;
+    text-decoration-line: underline;
+    text-decoration-color: chartreuse;
+
+}
+
+input{
+    text-overflow: ellipsis;
+}
+
+p{
+    letter-spacing: 10px;
+    word-spacing: 100px;
+}

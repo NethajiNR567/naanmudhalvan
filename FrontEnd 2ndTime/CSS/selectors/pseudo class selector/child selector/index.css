@@ -1,0 +1,19 @@
+ /* p:first-child{
+    color: rgb(12, 216, 66);
+} */
+
+p:last-child{
+    color:red;
+}
+
+ /* p:first-of-type{
+    background-color: aqua;
+}
+
+ p:last-of-type{
+    background-color : blueviolet;
+}
+ 
+ p:nth-child(2){
+    background-color: green;
+} */

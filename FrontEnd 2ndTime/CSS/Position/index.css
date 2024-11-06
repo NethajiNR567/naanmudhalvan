@@ -1,0 +1,43 @@
+section{
+    height: 100px;
+    width: 90%;
+    padding: 50px;
+    border: 1px solid black;
+    display: flex;
+    gap: 10px;
+    
+    position: sticky;
+    background-color: green;
+    top: 0;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+
+}
+
+/* #box2{
+    position: static;
+    top: 100px;
+    left: 100px;
+} */
+
+/* #box2{
+    position: relative;
+    top: 100px;
+} */
+
+/* #box3{
+    position: absolute;
+        top:200px;
+        left: 100px;
+} */
+
+#box3{
+    position: fixed;
+    margin-top:  100px;
+    margin-left: 80%;
+    background-color: aqua;
+}
